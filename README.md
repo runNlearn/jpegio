@@ -1,7 +1,7 @@
 # JpegIO
 
-This repository is forked from [jpegio][original-repo],  
-for changing file-io operation to memory-io operation.
+This repository is forked from dwgoon's [jpegio][original-repo],  
+A major changing is an io operation: file-io -> memory-io.
 
 ## Installation
 
