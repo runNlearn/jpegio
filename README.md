@@ -12,24 +12,6 @@ The installation process includes compiling C/C++ source codes.
 python setup.py install
 ```
 
-You can also use the pre-compiled wheels
-(If some errors occur, try compiling the package using the above command).
-
-On Linux:
-```
-pip install dist/jpegio-x.x.x-cp3x-cp3x-linux_<your architecture>.whl
-```
-
-On Windows 10 x64:
-```
-pip install dist/jpegio-x.x.x-cp3x-cp3x-win_amd64.whl
-```
-
-On macOS x64:
-```
-pip install dist/jpegio-x.x.x-cp3x-cp3x-macosx_<version>_x86_64.whl
-```
-
 ## Making a wheel
 
 You can use the following command for making a wheel for your own architecture such as x64 or ppc64le.
