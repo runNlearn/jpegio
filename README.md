@@ -1,6 +1,7 @@
 # JpegIO
 
-A python package for accessing the internal variables of JPEG file format such as DCT coefficients and quantization tables.
+This repository is forked from [jpegio][original-repo],  
+for changing file-io operation to memory-io operation.
 
 ## Installation
 
@@ -74,3 +75,5 @@ The names of member variables have been determined following the convention of l
 
 ## License
 [Apache License 2.0](/LICENSE)
+
+  [original-repo]: https://github.com/dwgoon/jpegio
